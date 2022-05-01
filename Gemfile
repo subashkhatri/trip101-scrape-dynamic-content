@@ -16,6 +16,18 @@ gem 'puma', '~> 3.11'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# for XML to Hash conversion if needed
+gem 'nori'
+# cross-domain communication between applications
+gem 'rack-cors'
+
+# Nokogiri
+gem 'nokogiri'
+# Httparty
+gem 'httparty'
+# Selenium-Webdrive
+gem 'selenium-webdriver'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
